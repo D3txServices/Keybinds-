@@ -1,0 +1,26 @@
+LButton	
+RButton
+Name
+XButton1                  	4th mouse button. Typically performs the same function as Browser_Back.
+XButton2	                 5th mouse button. Typically performs the same function as Browser_Forward.
+Wheel
+Name
+WheelDown	                 Turn the wheel downward (toward you).
+WheelUp	                      Turn the wheel upward (away from you).
+WheelLeft
+WheelRight	
+CapsLock  
+Space	                          Space (space bar)
+Tab	                            Tab (tabulator key)
+Up	↑                           (up arrow key)
+Down	↓                                (down arrow key)
+Left	←                                     (left arrow key)
+Right	→                               (right arrow key)
+Control                              (or Ctrl)	Ctrl. As a hotkey (Control::) it fires upon release unless it has the tilde prefix. Corresponds to the ^ hotkey prefix.
+Alt	Alt.                         As a hotkey (Alt::) it fires upon release unless it has the tilde prefix. Corresponds to the ! hotkey prefix.
+Shift	Shift.                     As a hotkey (Shift::) it fires upon release unless it has the tilde prefix. Corresponds to the + hotkey prefix.
+LControl                                   (or LCtrl)	Left Ctrl. Corresponds to the <^ hotkey prefix.
+RControl                               (or RCtrl)	Right Ctrl. Corresponds to the >^ hotkey prefix.
+LShift	                                           Left Shift. Corresponds to the <+ hotkey prefix.
+RShift	                               Right Shift. Corresponds to the >+ hotkey prefix.
+LAlt	                              Left Alt. Corresponds to the <! hotkey prefix.
